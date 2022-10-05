@@ -10,6 +10,6 @@ The analylsis required the use of two separate data sources for city data (city_
 
 # Results
 
-![Launch Month and Outcomes Pivot Table](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png)
+![PyBer Fare Summary]([https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png](https://github.com/jessica1258/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png))
 
 # Recommendations
